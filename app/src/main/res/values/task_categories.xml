@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="task_categories">
+        <item>To-do</item>
+        <item>Reminder</item>
+        <item>Shop</item>
+    </string-array>
+
+</resources>
